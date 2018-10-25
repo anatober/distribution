@@ -1,10 +1,6 @@
 # distribution
 A tool for optimal tasks distribution among workers.
 
-Linux compilation: "gcc -lstdc++ -std=c++11"
-
-Windows compilation: build in VS
-
 # Usage:
 Drag the "in" file onto the executable.
 
